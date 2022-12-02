@@ -60739,7 +60739,7 @@ return A.ahH(B.i,A.jo(B.ay,A.a([new A.DX(j,B.au,B.ai,!1,this.f,k,i,!1,k,7,B.I,B.
 nX(a){var s=0,r=A.N(t.z),q=this
 var $async$nX=A.O(function(b,c){if(b===1)return A.K(c,r)
 while(true)switch(s){case 0:s=2
-return A.X(q.d.nY(0,new A.PN("assets/sounds/wedding.mp3"),0.3),$async$nX)
+return A.X(q.d.nY(0,new A.PN("sounds/wedding.mp3"),0.3),$async$nX)
 case 2:q.e=!1
 return A.L(null,r)}})
 return A.M($async$nX,r)}}
