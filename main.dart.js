@@ -61004,7 +61004,7 @@ return A.ai5(B.i,A.js(B.ay,A.a([new A.E4(j,B.au,B.ai,!1,this.f,k,i,!1,k,7,B.I,B.
 o6(a){var s=0,r=A.N(t.z),q=this
 var $async$o6=A.O(function(b,c){if(b===1)return A.K(c,r)
 while(true)switch(s){case 0:s=2
-return A.V(q.d.o7(0,new A.PT("sounds/wedding.mp3"),0.3),$async$o6)
+return A.V(q.d.o7(0,new A.PT("assets/sounds/wedding.mp3"),0.3),$async$o6)
 case 2:q.e=!1
 return A.L(null,r)}})
 return A.M($async$o6,r)}}
