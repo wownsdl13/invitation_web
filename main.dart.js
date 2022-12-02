@@ -60739,7 +60739,7 @@ return A.ahH(B.i,A.jo(B.ay,A.a([new A.DX(j,B.au,B.ai,!1,this.f,k,i,!1,k,7,B.I,B.
 nX(a){var s=0,r=A.N(t.z),q=this
 var $async$nX=A.O(function(b,c){if(b===1)return A.K(c,r)
 while(true)switch(s){case 0:s=2
-return A.X(q.d.nY(0,new A.PN("sounds/wedding.mp3"),0.3),$async$nX)
+return A.X(q.d.nY(0,new A.PN("assets/sounds/wedding.mp3"),0.3),$async$nX)
 case 2:q.e=!1
 return A.L(null,r)}})
 return A.M($async$nX,r)}}
@@ -60841,7 +60841,7 @@ h=k.gY()
 k=k.a
 k===$&&A.b()
 g=t.E
-return A.ck(e,A.lB(A.a([r,q,p,n,A.fb(B.ac,new A.eV(new A.ax(m,0,m,0),A.lB(A.a([j,i,A.fb(B.ac,A.ck(e,A.hE(A.dU(o,A.c5(e,e,B.i,e,e,e,e,e,d,e,e,13*(h/k.a),e,e,B.R,e,e,!0,e,e,e,e,e,e,e,e),e,e),e,e),e,e,new A.cC(B.ls,e,e,l,e,e,B.P),e,e,e,new A.ax(0,s,0,s),e),B.I,!1,e,e,e,e,e,e,e,e,e,e,e,new A.a5y(f),e,e,e,e,e,e)],g),B.aW,B.b1),e),B.I,!1,e,e,e,e,e,e,e,e,e,e,e,new A.a5z(f),e,e,e,e,e,e),A.om("images/bottom.PNG",e,e,e,$.ac().gY())],g),B.aW,B.bM),e,e,e,e,e,e,new A.ax(0,70*(b/c.a),0,0),e)}}
+return A.ck(e,A.lB(A.a([r,q,p,n,A.fb(B.ac,new A.eV(new A.ax(m,0,m,0),A.lB(A.a([j,i,A.fb(B.ac,A.ck(e,A.hE(A.dU(o,A.c5(e,e,B.i,e,e,e,e,e,d,e,e,13*(h/k.a),e,e,B.R,e,e,!0,e,e,e,e,e,e,e,e),e,e),e,e),e,e,new A.cC(B.ls,e,e,l,e,e,B.P),e,e,e,new A.ax(0,s,0,s),e),B.I,!1,e,e,e,e,e,e,e,e,e,e,e,new A.a5y(f),e,e,e,e,e,e)],g),B.aW,B.b1),e),B.I,!1,e,e,e,e,e,e,e,e,e,e,e,new A.a5z(f),e,e,e,e,e,e),A.om("assets/images/bottom.PNG",e,e,e,$.ac().gY())],g),B.aW,B.bM),e,e,e,e,e,e,new A.ax(0,70*(b/c.a),0,0),e)}}
 A.a5z.prototype={
 $0(){var s=this.a
 s.ab(new A.a5w(s))},
@@ -60983,7 +60983,7 @@ n=$.ac()
 l=n.gY()
 n=n.a
 n===$&&A.b()
-n=A.om("images/distance.PNG",c,c,90*(l/n.a),c)
+n=A.om("assets/images/distance.PNG",c,c,90*(l/n.a),c)
 l=$.ac()
 q=l.gY()
 l=l.a
@@ -61048,7 +61048,7 @@ o=$.ac()
 m=o.gY()
 o=o.a
 o===$&&A.b()
-d=A.TA(A.fb(c,A.jo(B.ay,A.a([r,new A.eq(B.vA,c,c,A.om("images/mole_top.PNG",c,c,40*(m/o.a),40*(a1/d.a)),c)],p),B.b3),B.I,!1,c,c,c,c,c,c,c,c,c,c,c,new A.WE(),c,c,c,c,c,c),1)
+d=A.TA(A.fb(c,A.jo(B.ay,A.a([r,new A.eq(B.vA,c,c,A.om("assets/images/mole_top.PNG",c,c,40*(m/o.a),40*(a1/d.a)),c)],p),B.b3),B.I,!1,c,c,c,c,c,c,c,c,c,c,c,new A.WE(),c,c,c,c,c,c),1)
 a1=$.ac()
 o=a1.gY()
 a1=a1.a
@@ -61097,7 +61097,7 @@ r=$.ac()
 a2=r.gY()
 r=r.a
 r===$&&A.b()
-o=A.Gt(A.a([d,a1,A.TA(A.fb(B.ac,A.jo(B.ay,A.a([f,new A.eq(B.vz,c,c,A.om("images/graffie_top.PNG",c,c,40*(a2/r.a),40*(m/o.a)),c)],p),B.b3),B.I,!1,c,c,c,c,c,c,c,c,c,c,c,new A.WF(),c,c,c,c,c,c),1)],p),B.bM)
+o=A.Gt(A.a([d,a1,A.TA(A.fb(B.ac,A.jo(B.ay,A.a([f,new A.eq(B.vz,c,c,A.om("assets/images/graffie_top.PNG",c,c,40*(a2/r.a),40*(m/o.a)),c)],p),B.b3),B.I,!1,c,c,c,c,c,c,c,c,c,c,c,new A.WF(),c,c,c,c,c,c),1)],p),B.bM)
 m=$.ac()
 r=m.gY()
 m=m.a
@@ -61130,14 +61130,14 @@ p=A.ahT(o,!0,!0,!0)
 o=o.length
 return A.ck(n,A.lB(A.a([new A.eV(new A.ax(q,q,q,q),new A.Do(new A.a3r(2,0,0,0.8333333333333334),p,n,B.ai,!1,n,n,B.EM,!0,n,o,B.I,B.uc,n,B.a8,n),n)],t.E),B.aW,B.b1),n,n,n,n,n,n,new A.ax(0,20*(l/m.a),0,20*(r/s.a)),n)},
 a0P(a,b,c){var s,r=null,q=J.act(J.act(a,"."),b),p=A.er(6),o=A.a([new A.hB(2,B.d2,A.aS(B.d.b8(25.5),0,0,0),B.EP,4)],t.xq),n=A.er(5),m=A.aS(51,0,0,0)
-n=A.ck(r,A.afV(A.er(4),A.om("images/"+A.f(a)+"_thumbnail."+A.f(b),B.kz,new A.Z7(),r,r)),r,r,new A.cC(m,r,r,n,r,r,B.P),r,r,r,B.zT,r)
+n=A.ck(r,A.afV(A.er(4),A.om("assets/"+("images/"+A.f(a)+"_thumbnail."+A.f(b)),B.kz,new A.Z7(),r,r)),r,r,new A.cC(m,r,r,n,r,r,B.P),r,r,r,B.zT,r)
 m=$.ac()
 s=m.gY()
 m=m.a
 m===$&&A.b()
 return A.acY(A.fb(B.ac,A.ck(r,A.lB(A.a([new A.rp(1,n,r),A.TA(A.hE(A.E4(B.a4,A.dU(c,A.c5(r,r,B.da,r,r,r,r,r,"Maru",r,r,14*(s/m.a),B.A3,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.D,B.i,0,r,r,r,r,B.bO),r,r),1)],t.E),B.aW,B.bM),r,r,new A.cC(B.i,r,r,p,o,r,B.P),r,r,B.zV,B.zU,r),B.I,!1,r,r,r,r,r,r,r,r,r,r,r,new A.Z8(this,q),r,r,r,r,r,r),r,r,r,q,!1)},
 a3G(a){var s=null
-return A.ahH(B.l,A.acY(A.fb(B.ac,new A.v7(new A.nC("images/"+a,s,s),s),B.I,!1,s,s,s,s,s,s,s,s,s,s,s,new A.Z9(),s,s,s,s,s,s),s,s,s,a,!1))}}
+return A.ahH(B.l,A.acY(A.fb(B.ac,new A.v7(new A.nC("assets/"+("images/"+a),s,s),s),B.I,!1,s,s,s,s,s,s,s,s,s,s,s,new A.Z9(),s,s,s,s,s,s),s,s,s,a,!1))}}
 A.Z6.prototype={
 $1(a){var s=J.aA(a)
 return this.a.a0P(s.j(a,0),s.j(a,1),s.j(a,2))},
@@ -61174,7 +61174,7 @@ q=$.ac()
 p=q.gY()
 q=q.a
 q===$&&A.b()
-q=A.om("images/map.png",c,c,c,a0-80*(p/q.a))
+q=A.om("assets/images/map.png",c,c,c,a0-80*(p/q.a))
 p=$.ac()
 a0=p.gY()
 p=p.a
